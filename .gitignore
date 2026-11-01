@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+*.egg-info/
+
+# Secrets and user data
+.env
+.env.*
+!.env.example
+data/
+media/
+backups/
+
+# Local Codex working notes
+codex-session*.md
+
+# Frontend
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp

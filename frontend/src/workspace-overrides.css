@@ -1,0 +1,86 @@
+.filter-grid select,.filter-grid input{
+  font-size:10px
+}
+.song-search input{
+  font-size:12px
+}
+.song-main-info>small{
+  font-size:10px
+}
+.song-tag{
+  font-size:9px
+}
+.song-extra small{
+  font-size:9px
+}
+.song-description{
+  font-size:11px
+}
+.material-section-title .eyebrow{
+  font-size:9px
+}
+.material-section-title h4{
+  font-size:14px
+}
+.material-info strong{
+  font-size:10px
+}
+.material-info small{
+  font-size:9px
+}
+.text-action,.replace-material{
+  font-size:9px
+}
+.material-add-heading strong{
+  font-size:10px
+}
+.material-add-heading span{
+  font-size:9px
+}
+.material-add-fields select,.material-add-fields>input,.material-file-input{
+  font-size:10px
+}
+.category-manager-toggle,.category-manager-body form input{
+  font-size:10px
+}
+.managed-category{
+  font-size:9px
+}
+.modal-form label,.profile-card>label{
+  font-size:11px
+}
+.check-row{
+  font-size:9px!important
+}
+.form-note{
+  font-size:9px
+}
+.field-error{
+  font-size:10px
+}
+
+@media(max-width:760px){
+  .filter-grid select,.filter-grid input{
+  font-size:9px
+}
+.song-search input{
+  font-size:11px
+}
+.song-main-info>small{
+  font-size:9px
+}
+.material-info strong{
+  font-size:9px
+}
+.material-info small{
+  font-size:8px
+}
+.text-action,.replace-material{
+  font-size:8px
+}
+.material-add-fields select,.material-add-fields>input,.material-file-input{
+  font-size:9px
+}
+
+}
+
